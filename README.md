@@ -2,5 +2,5 @@
 - 👀 I’m interested in python, DB, Django, Algorithm, js, Vue, React
 - 🌱 I’m currently learning python, DB, Django, Algorithm, js, Vue, React
 - 💙 SSAFY 7
-- 📜 [https://www.notion.so/chaemyeong](https://www.notion.so/chaemyeong/e042bc0a0c52448fa848634f140d3499?pvs=4)
+- 📜 https://www.notion.so/chaemyeong/e042bc0a0c52448fa848634f140d3499?pvs=4
 - 🎆 Ulift
