@@ -3,4 +3,4 @@
 - 🌱 I’m currently learning python, DB, Django, Algorithm, js, Vue, React
 - 💙 SSAFY 7
 - 📜 포트폴리오: https://chaemyeong.notion.site/e042bc0a0c52448fa848634f140d3499?pvs=4
-- 🎆 Ulift
+- 🎆 (前) Ulift
