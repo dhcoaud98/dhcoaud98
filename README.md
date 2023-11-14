@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @dhcoaud98
 - 👀 I’m interested in python, DB, Django, Algorithm, js, Vue, React
-- 🌱 I’m currently learning python, DB, Django, Algorithm, js, Vue, React
+- 🌱 I’m currently learning python, DB, Django, Algorithm, js, Vue, React, React Native
 - 💙 SSAFY 7
 - 📜 포트폴리오: https://chaemyeong.notion.site/e042bc0a0c52448fa848634f140d3499?pvs=4
 - 🎆 (前) Ulift
+- ☁️ 새싹 1기 클라우드기반의 모빌리티 융합보안 과정 참여중
